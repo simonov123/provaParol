@@ -1,5 +1,11 @@
 # provaParol
 IT
+QUESTO È UN PASSWORD MANAGER LEGGERO E OPEN-SOURCE BASATO SU JAVA E INTERFACCIA SWT,LA STESSA DI ECLIPSE,SALVA LE PASSWORD IN UN POSTO SICURO LONTANO DA QUALSIASI BROWSER E SERVER DI GOOGLE,TUTTE LE TUE PASSWORD SONO PROTETTE IN UN SICURISSIMO DATABASE RELAZIONALE ALL'INTERNO DEL TUO PC,IN LOCALHOST,ELIMINABILE IN QUALSIASI MOMENTO. 
+ED È ACCESSIBILE SOLTANTO TRAMITE PASSWORD
+PER CREARE NUOVI UTENTI C'È UN'ULTERIORE LIVELLO DI SICUREZZA CHE CONSISTE NELLA PASSWORD DI ROOT
+(SUPERUTENTE IN LINUX/OSX,CONFIGURATA CON MYSQL IN WINDOWS)
+DISPONIBILE PER WINDOWS,MAC OSX E LE DISTRIBUZIONI LINUX BASATE SU GNOME
+
 ATTENZIONE!!
 PER IL CORRETTO FUNZIONAMENTO SU WINDOWS/OSX È NECESSARIO INSTALLARE MYSQL
 WINDOWS:https://dev.mysql.com/downloads/windows/installer/
@@ -12,6 +18,12 @@ grazie per aver usato il mio programma
 provate anche il ProvaEditor nelle sue versioni per Windows/Debian (su GitHub) o su Play Store per Android
 
 RU
+ЭТО ЛЕГКИЙ МЕНЕДЖЕР ПАРОЛЕЙ С ОТКРЫТЫМ ИСТОЧНИКОМ НА ОСНОВЕ ИНТЕРФЕЙСА JAVA И SWT, ТАКЖЕ КАК ECLIPSE, СОХРАНЯЕТ ВАШИ ПАРОЛИ В БЕЗОПАСНОМ МЕСТЕ, ДАЛЬШЕ ОТ ЛЮБОГО БРАУЗЕРА И СЕРВЕРА GOOGLE, ВСЕ ВАШИ ПАРОЛИ ЗАЩИЩЕНЫ В ОЧЕНЬ БЕЗОПАСНОЙ ВСЕХ СВЯЗАННОЙ БАЗЫ ДАННЫХ. 'ВНУТРИ ВАШЕГО ПК НА LOCALHOST МОЖЕТ БЫТЬ УДАЛЕН В ЛЮБОЕ ВРЕМЯ. 
+И ДОСТУП К ЭТОМ ТОЛЬКО ЧЕРЕЗ ПАРОЛЬ
+ДЛЯ СОЗДАНИЯ НОВЫХ ПОЛЬЗОВАТЕЛЕЙ ЕСТЬ ДОПОЛНИТЕЛЬНЫЙ УРОВЕНЬ БЕЗОПАСНОСТИ, КОТОРЫЙ СОСТОИТ ИЗ КОРНЕВОГО ПАРОЛЯ.
+(СУПЕРПОЛЬЗОВАТЕЛЬ В LINUX/OSX, НАСТРОЕННЫЙ С ПОМОЩЬЮ MYSQL В WINDOWS)
+ДОСТУПНО ДЛЯ WINDOWS, MAC OSX И ДИСТРИБУТИВОВ LINUX НА ОСНОВЕ GNOME.
+
 ВНИМАНИЕ!!
 ДЛЯ КОРРЕКТНОЙ РАБОТЫ НА WINDOWS/OSX НЕОБХОДИМО УСТАНОВИТЬ MySQL.
 WINDOWS: https://dev.mysql.com/downloads/windows/installer/
@@ -24,6 +36,12 @@ sudo apt-get install -f
 также попробуйте ProvaEditor в его версиях для Windows/Debian (на GitHub) или в Play Store для Android.
 
 EN
+THIS IS A LIGHTWEIGHT AND OPEN-SOURCE PASSWORD MANAGER BASED ON JAVA AND SWT INTERFACE, THE SAME AS ECLIPSE, SAVES YOUR PASSWORDS IN A SAFE PLACE AWAY FROM ANY BROWSER AND GOOGLE SERVER, ALL YOUR PASSWORDS ARE PROTECTED IN A VERY SECURE ALL-RELATED DATABASE 'INSIDE OF YOUR PC, IN LOCALHOST, CAN BE DELETED AT ANY TIME. 
+AND IT IS ONLY ACCESSIBLE VIA PASSWORD
+TO CREATE NEW USERS THERE IS AN ADDITIONAL LEVEL OF SECURITY WHICH CONSISTS OF THE ROOT PASSWORD
+(SUPERUSER IN LINUX/OSX, CONFIGURED WITH MYSQL IN WINDOWS)
+AVAILABLE FOR WINDOWS, MAC OSX AND GNOME-BASED LINUX DISTRIBUTIONS
+
 WARNING!!
 FOR CORRECT OPERATION ON WINDOWS/OSX MYSQL MUST BE INSTALLED
 WINDOWS:https://dev.mysql.com/downloads/windows/installer/
