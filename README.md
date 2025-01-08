@@ -53,4 +53,4 @@ sudo apt-get install -f
 Thank you for using my program
 also try ProvaEditor in its versions for Windows/Debian (on GitHub) or on the Play Store for Android
 
-![home] (https://github.com/simonov123/provaParol/blob/main/home.png "home")
+
