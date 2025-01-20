@@ -2,8 +2,6 @@
 you can buy from this link
 https://lucianosimone143.itch.io/provaparol
 
-![ico](https://github.com/user-attachments/assets/f9d6efd9-639b-461b-98eb-69d91f4d7710)
-
 ![home](https://github.com/user-attachments/assets/210c9610-229a-4218-a301-d6790a0dd3f7)
 ![home2](https://github.com/user-attachments/assets/2f55b6d5-3bfa-44e0-8195-60f012a8f938)
 ![item](https://github.com/user-attachments/assets/85aab5ca-7c2c-4b8a-bf01-32faa90c990e)
